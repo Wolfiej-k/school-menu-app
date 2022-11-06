@@ -1,0 +1,5 @@
+2022/10/26-09:06:10.101 1738 Creating DB C:\Users\wolfi\AppData\Local\Temp\flutter_tools.c3fa461a\flutter_tools_chrome_device.81ba6f3f\Default\Asset Store\assets.db since it was missing.
+2022/10/26-09:06:10.304 1738 Reusing MANIFEST C:\Users\wolfi\AppData\Local\Temp\flutter_tools.c3fa461a\flutter_tools_chrome_device.81ba6f3f\Default\Asset Store\assets.db/MANIFEST-000001
+2022/10/26-09:06:12.591 2d98 Level-0 table #5: started
+2022/10/26-09:06:12.615 2d98 Level-0 table #5: 287301 bytes OK
+2022/10/26-09:06:12.621 2d98 Delete type=0 #3
